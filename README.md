@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Vladimir
 
-<!--
-**aleksvladimir/aleksvladimir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a BackEnd Developer
+- 💪 I like to write code
+- 🎉 I like to ride motorcycles.
+- 🥅 I am constantly learning new things
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>:zap: Statistics:</summary>
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksvladimir&langs_count=8&layout=compact" />
+    <br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aleksvladimir&show_icons=true" />
+</details>
